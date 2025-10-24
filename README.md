@@ -2,7 +2,7 @@
 Placa do Garmin GFC-500
 
 ### GFC-500 Real
-![Frontal](image.webp "Frontal")
+![Frontal](images/image.webp "Frontal")
 
 ### Placa Frontal
 ![Placa Frontal](images/pcb1.png "Placa Frontal")
