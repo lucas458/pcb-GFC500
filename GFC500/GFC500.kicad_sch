@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2d04fe7c-1661-4db6-9eb0-d7e784f3eea7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 120.65 52.07)
+		(size 25.4 93.98)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "672b7574-689e-44ab-94a5-1ec0a30e27fa")
+		(property "Sheetname" "Back"
+			(at 120.65 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "back.kicad_sch"
+			(at 120.65 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GFC500"
+				(path "/2d04fe7c-1661-4db6-9eb0-d7e784f3eea7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 52.07)
+		(size 26.67 93.98)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f00e7c9a-499c-409c-8ac2-d6f4f1580835")
+		(property "Sheetname" "Frontal"
+			(at 72.39 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "frontal.kicad_sch"
+			(at 72.39 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GFC500"
+				(path "/2d04fe7c-1661-4db6-9eb0-d7e784f3eea7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
